@@ -1,92 +1,116 @@
 # Hi 👋 I'm Archita Garg
 
-💻 Frontend & Mobile App Developer passionate about building user-friendly applications
-
-🎓 BTech Computer Science Student  
-🚀 Aspiring Software Developer  
-📱 Exploring React Native and modern web technologies
+💻 Mobile App & AI Developer  
+🎓 B.Tech Computer Science Student (CGPA: 8.11)  
+🚀 Passionate about building scalable web, mobile, and AI-powered applications  
+🌱 Currently learning Agentic AI, LangChain, FastAPI, and Full-Stack Development
 
 ---
 
 ## 🚀 Tech Stack
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
-
+### Frontend & Mobile
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+### Backend & AI
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-6C63FF?style=for-the-badge)
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
 ## 🌱 Currently Working On
 
-- Improving React Native skills
-- Learning API integration
-- Building TravelMate application
-- Practicing Data Structures & Algorithms
+- 🤖 Agentic AI Applications
+- 📱 React Native Mobile Apps
+- ⚡ FastAPI REST APIs
+- 🔗 LangChain Workflows
+- 🧠 Data Structures & Algorithms
+- 🗺️ TravelMate App
 
 ---
 
-## 📌 Projects
+## 📌 Featured Projects
+
+### 🤖 Agentic AI Portfolio Assistant
+AI-powered portfolio chatbot built with FastAPI, LangChain, Streamlit, and React.
+
+**Tech Stack:** FastAPI • LangChain • Python • Streamlit • React
+
+🔗 https://github.com/archita-garg02/Agentic_ai
+
+---
 
 ### 📱 TravelMate (Ongoing)
-Travel application with:
-- Map integration
-- Route optimization
-- Responsive UI
-- Navigation features
 
-🔗 Repository:
-https://github.com/archita-garg02/travelling-app
+Travel planning application featuring:
+
+- 🗺️ Route Planning
+- 📍 Navigation
+- ♻️ Reusable Components
+- 📱 Responsive UI
+
+🔗 https://github.com/archita-garg02/travelling-app
 
 ---
 
-### 🛒 E-commerce Mobile App
+### 🛒 E-Commerce Mobile App
 
 Features:
-- Shopping UI
-- Reusable components
-- Mobile responsiveness
-- Smooth navigation
 
-🔗 Repository:
-https://github.com/archita-garg02/ecommerce-mobile-app
+- Shopping Experience
+- Reusable UI Components
+- Cross-Platform Development
+- Mobile Navigation
+
+🔗 https://github.com/archita-garg02/ecommerce-mobile-app
 
 ---
 
 ### 💰 Expense Tracker
 
 Features:
-- Local Storage
-- Expense management
-- Modern responsive UI
 
-🔗 Repository:
-https://github.com/archita-garg02/expense_tracker
+- Expense Management
+- Local Storage
+- Responsive UI
+- JavaScript
+
+🔗 https://github.com/archita-garg02/expensetracker
 
 ---
 
-### 🎮 Tic Tac Toe
+## 🎯 Areas of Interest
 
-Features:
-- C++ console application
-- Two-player functionality
-- Dynamic game board
-
-🔗 Repository:
-https://github.com/archita-garg02/tic_tac_toe_game
-
+- 🤖 Agentic AI
+- 📱 React Native Development
+- 🌐 Full-Stack Development
+- ⚡ FastAPI
+- 🧠 Data Structures & Algorithms
 ---
 
 ## 📫 Connect With Me
 
-GitHub:
-https://github.com/archita-garg02
+- 💼 LinkedIn: https://www.linkedin.com/in/your-linkedin
+- 💻 GitHub: https://github.com/archita-garg02
+- 📧 Email: gargarchita02@gmail.com
+
+---
+
+⭐ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*
